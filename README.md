@@ -24,4 +24,4 @@ Puisqu'il s'agit d'un projet statique basique, aucune installation complexe n'es
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone [https://github.com/votre-nom-utilisateur/nom-du-repo.git](https://github.com/votre-nom-utilisateur/nom-du-repo.git)
+   git clone https://github.com/mbarekTrismegistus/pageRechercheGoogle.git
